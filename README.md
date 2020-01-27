@@ -38,7 +38,7 @@ Swagger Spec      |  http://localhost:8080/api-docs          |
 ### Screenshots
 ---
 #### Lista de clientes
-![Dashboard](/screenshots/1.png?raw=true)
+(/screenshots/1.png?raw=true)
 ---
 #### Adicionar cliente
 ![Dashboard](/screenshots/2.png?raw=true)
