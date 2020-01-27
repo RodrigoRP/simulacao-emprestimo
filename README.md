@@ -38,16 +38,16 @@ Swagger Spec      |  http://localhost:8080/api-docs          |
 ### Screenshots
 ---
 #### Lista de clientes
-(/screenshots/1.png?raw=true)
+![Dashboard](https://raw.githubusercontent.com/RodrigoRP/simulacao-emprestimo/master/screenshots/1.PNG)
 ---
 #### Adicionar cliente
-![Dashboard](/screenshots/2.png?raw=true)
+![Dashboard](https://raw.githubusercontent.com/RodrigoRP/simulacao-emprestimo/master/screenshots/2.PNG)
 ---
 #### Simular empréstimo
-![Dashboard](/screenshots/3.png?raw=true)
+![Dashboard](https://raw.githubusercontent.com/RodrigoRP/simulacao-emprestimo/master/screenshots/3.PNG)
 ---
 #### Lista dos simulados
-![Dashboard](/screenshots/4.png?raw=true)
+![Dashboard](https://raw.githubusercontent.com/RodrigoRP/simulacao-emprestimo/master/screenshots/4.PNG)
 ---
 
 
